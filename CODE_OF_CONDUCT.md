@@ -44,3 +44,7 @@ If a participant engages in behavior that violates this Code of Conduct, the com
 * Removal from a specific project or event
 * Disciplinary action in accordance with company work rules (Employment Regulations)
 
+## License and attribution
+
+This Code of Conduct is based on the Citizen Code of Conduct.
+The Citizen Code of Conduct is distributed by [Stumptown Syndicate](http://stumptownsyndicate.org) under a [Creative Commons Attribution-ShareAlike license](http://creativecommons.org/licenses/by-sa/3.0/).
